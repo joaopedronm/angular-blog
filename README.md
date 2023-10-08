@@ -2,6 +2,8 @@
 
 Este é o repositório do código-fonte para o Blog de Programação e Tecnologia desenvolvido em Angular. O projeto tem como objetivo fornecer um espaço para compartilhar notícias, tutoriais e insights relacionados à programação, tecnologia e desenvolvimento web.
 
+![Angular-Blog](./src/assets/screenshot-1.png){width=200px}
+
 ## Funcionalidades Principais
 
 - Exibição de notícias e artigos relacionados à programação e tecnologia.
